@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ayush Chakraborty</h1>
-<h3 align="center">An undergrad student interested in ML and Web Dev :)</h3>
+<h1 align="center">Hi, I'm Ayush Chakraborty</h1>
+<h3 align="center">An undergrad student interested in ML and Web Dev </h3>
 
-- 🌱 I’m currently learning **Courses: CS50X, The Odin Project<br> 🌱 I’m currently learning Languages: Kotlin, JS Frameworks: React**
+-  I’m currently learning **Courses: CS50X, The Odin Project<br>  I’m currently learning Languages: Kotlin, JS Frameworks: React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AyushChakraborty](https://github.com/AyushChakraborty)
 
@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **chakrabortyayush83@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
